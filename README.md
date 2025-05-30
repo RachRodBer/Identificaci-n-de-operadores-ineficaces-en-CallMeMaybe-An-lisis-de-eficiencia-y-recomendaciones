@@ -1,2 +1,4 @@
-# Identificaci-n-de-operadores-ineficaces-en-CallMeMaybe-An-lisis-de-eficiencia-y-recomendaciones
-Análisis del desempeño de operadores en el servicio de telefonía virtual CallMeMaybe para identificar ineficiencias y proponer mejoras operativas.
+# Identificacion de operadores ineficaces en CallMeMaybe Analisis de eficiencia y recomendaciones
+
+Este proyecto tiene como objetivo mejorar la calidad del servicio de atención telefónica de la empresa CallMeMaybe mediante la identificación de operadores ineficaces. Se considera que un operador es ineficaz cuando tiene un alto número de llamadas entrantes perdidas, largos tiempos de espera y una baja cantidad de llamadas salientes. A través del análisis exploratorio de los datos, la evaluación de métricas clave y la realización de pruebas estadísticas, se detectan patrones que explican la baja eficiencia de ciertos operadores. El análisis también examina cómo influyen factores como el plan tarifario del cliente o la carga de trabajo del operador en su desempeño. Finalmente, se presentan recomendaciones concretas para optimizar la supervisión operativa, reducir los tiempos de espera y mejorar la productividad general del equipo de atención telefónica.
+
